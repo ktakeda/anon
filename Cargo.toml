@@ -2,5 +2,15 @@
 name = "anon"
 version = "0.1.0"
 authors = ["Kazuma Takeda <k.takeda2007@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+repository = "https://github.com/ktakeda/anon"
+documentation = "https://github.com/ktakeda/anon"
+homepage = "https://github.com/ktakeda/anon"
+description = """
+Anonymous struct macro.
+"""
+keywords = ["anonymous", "anon"]
 
 [dependencies]
