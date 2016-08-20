@@ -1,0 +1,6 @@
+[package]
+name = "anon"
+version = "0.1.0"
+authors = ["Kazuma Takeda <k.takeda2007@gmail.com>"]
+
+[dependencies]
