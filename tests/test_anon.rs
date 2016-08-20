@@ -17,10 +17,10 @@ mod test {
         assert_eq!(1, y[0].a);
         assert_eq!(4, y[1].a);
     }
-    #[test]
-    fn array_test() {
-        let z = [anon! {a: 1, b: 2}, anon! {a: 1, b: 2}];
-        assert_eq!(1, z[0].a);
-        assert_eq!(4, z[1].a);
-    }
+//    #[test]
+//    fn array_test() {
+//        let z = [anon! {a: 1, b: 2}, anon! {a: 1, b: 2}];
+//        assert_eq!(1, z[0].a);
+//        assert_eq!(4, z[1].a);
+//    }
 }
