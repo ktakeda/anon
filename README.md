@@ -9,7 +9,8 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-anon = { git = "https://github.com/ktakeda/anon" }
+anon = "0.1.0"
+# or, anon = { git = "https://github.com/ktakeda/anon" }
 ```
 
 and this to your crate root:
